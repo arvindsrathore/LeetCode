@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Solved LC-Hard"
+git push origin main
